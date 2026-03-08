@@ -1,0 +1,6 @@
+###############
+# VIRTUAL BOX #
+###############
+VBoxManage.exe debugvm "win2016" dumpvmcore --filename="/path/to/win2016_mem.elf"
+VBoxManage.exe debugvm "centos7" dumpvmcore --filename="/path/to/centos7_mem.elf"
+VBoxManage.exe debugvm "win10" dumpvmcore --filename="/path/to/win10_mem.elf"
