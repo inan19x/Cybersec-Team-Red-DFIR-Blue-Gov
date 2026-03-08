@@ -1,0 +1,5 @@
+Collected artifact analysis (GUI):
+https://www.autopsy.com/download/
+--
+Memory dump analysis:
+https://github.com/volatilityfoundation/volatility3/releases/download/v2.27.0/volatility3-win-exes-2.27.0.zip
